@@ -1,0 +1,19 @@
+{
+  "name": "fibonacci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fibonacci.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Raymond Njagala",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.5.0",
+    "mocha": "^10.7.3"
+  }
+}
